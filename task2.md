@@ -1,9 +1,9 @@
-#오늘의 노래 추천
+#오늘의 노래 추천  
 
 ![노래이미지](http://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/779/272/81779272_1607582361176_1_600x600.JPG)
 
-##Hate you 
-__백예린(Yerin Baek)__  
+__Hate you__  
+백예린(Yerin Baek) 
 
 
 + 앨범명 : _tellusboutyourself_
